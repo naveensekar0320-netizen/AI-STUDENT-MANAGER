@@ -1,0 +1,6 @@
+{
+  "name": "Student Record Management System",
+  "description": "Institutional student record, course curriculum, academic session, and MySQL database management portal (studentrecordms / studentrecorddb).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
